@@ -17,7 +17,7 @@ You can create your own projects as though it were your own personal computer an
 
 - 🤖&nbsp; Hyperspawn Robotics: Teleportation: Control humanoids remotely.
 - 🧠&nbsp; Braincommunity: Learn about brain: Come together share your insights.
-- 👨‍💻&nbsp; Make ML models based on community info about brain.
+- 👨‍💻&nbsp; Brain Project: Make ML models based on community info about brain.
 ### Future
 - 🤽‍♂️&nbsp; Colonizing Antarctiva: We need to colonize antarctica before mars.
 - 🤿&nbsp; Building underwater remotely operated vehicles to explore what is underneath.
